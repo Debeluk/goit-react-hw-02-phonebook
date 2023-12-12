@@ -1,10 +1,10 @@
 import React from 'react';
-import Feedback from './Feedback/feedback.js';
+import PhoneBook from './Phonebook/phonebook';
 
 function App() {
   return (
     <div className="App">
-      <Feedback />
+      <PhoneBook />
     </div>
   );
 }
