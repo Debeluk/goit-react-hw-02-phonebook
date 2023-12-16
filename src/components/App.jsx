@@ -1,5 +1,5 @@
 import React from 'react';
-import PhoneBook from './Phonebook/phonebook';
+import PhoneBook from './Phonebook/Phonebook';
 
 function App() {
   return (
